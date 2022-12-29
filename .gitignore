@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/CustomConfigProvider/bin/Debug/net6.0
+/CustomConfigProvider/obj
